@@ -1,6 +1,6 @@
 # RieCollabChamber
 
-This repository is built for anyone who want to contributing to this bot. Before contributing, please read the guide below:
+This repository is built for anyone who want to contributing to this bot. You can free make a pull request if you want. Before contributing, please read the guide below:
 
 ## Translating
 
